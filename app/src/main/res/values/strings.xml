@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="press_me">Add</string>
+    <string name="press_me_too">Press Me Too!</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="navigate_to_secondary_activity">Navigate to Secondary Activity</string>
+    <string name="checkBox1">Bifeaza aici pentru suma</string>
+    <string name="compute">Compute</string>
+</resources>
